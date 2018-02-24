@@ -35,10 +35,6 @@ body {
 
 	
 	background-color: #ebebeb ;
-	/*float: right;
-	padding: 13% 13% 5% 13%;
-	margin: 0% 10% 0% 0%;
-	color: #777;*/
 	height: 220px;
 	width: 30%;
 	padding: 25px;
@@ -49,23 +45,10 @@ body {
 
 
 
-	/*For some reason my text is not going to the top. 
-	it keeps staying at the bottom*/
-
+	
 }
 
-/*.section {
 
-	background-color: #ebebeb;
-	height: 200px;
-	padding: 25px;
-	width: 41%;
-	text-align: center;
-	margin-left: 9.95%;
-	color: #777;
-	background-color: #ebebeb;
-
-} */
 
 .container {
 
