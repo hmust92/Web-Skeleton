@@ -1,0 +1,126 @@
+body {
+
+	background-color: #777;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+
+	
+}
+
+
+
+
+.header {
+
+	background-color: #ebebeb;
+	padding: 30px;
+	text-align: center;
+	margin: 1% 10% 0% 10%;
+	color: #777;
+
+}
+
+.nav {
+
+	background-color: #ebebeb;
+	padding: 30px;
+	text-align: center;
+	margin: 1% 10% 2% 10%;
+	color: #777;
+
+
+}
+
+.aside {
+
+	
+	background-color: #ebebeb ;
+	/*float: right;
+	padding: 13% 13% 5% 13%;
+	margin: 0% 10% 0% 0%;
+	color: #777;*/
+	height: 220px;
+	width: 30%;
+	padding: 25px;
+	float: right;
+	text-align: center;
+	margin: 0% 10% 0% 0%;
+	color: #777;
+
+
+
+	/*For some reason my text is not going to the top. 
+	it keeps staying at the bottom*/
+
+}
+
+/*.section {
+
+	background-color: #ebebeb;
+	height: 200px;
+	padding: 25px;
+	width: 41%;
+	text-align: center;
+	margin-left: 9.95%;
+	color: #777;
+	background-color: #ebebeb;
+
+} */
+
+.container {
+
+	overflow: hidden;
+		
+}
+
+section {
+
+	color: #777;
+	background-color: #ebebeb;
+	height: 220px;
+	padding: 25px;
+	width: 41%;
+	text-align: center;
+	margin-left: 9.95%;
+	float: left;
+}
+
+article {
+
+	padding: 20px;
+	color: #ebebeb;
+	margin-top: 10px;
+	background-color: #777;
+}
+
+h1 {
+
+	color: #777;
+	background-color: #ebebeb;
+	padding:20px;
+	margin-bottom: 10px;
+	margin-top: 15px;
+
+
+}
+
+p {
+
+	color: #777;
+	background-color: #ebebeb;
+	padding: 20px;
+}
+
+footer {
+
+	margin-top: 15px;
+	background-color: #ebebeb;
+	color: #777;
+	text-align: center;
+	margin-left: 9.95%;
+    margin-right: 9.95%;
+    padding: 25px;
+
+
+}
+
