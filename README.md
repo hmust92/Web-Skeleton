@@ -2,7 +2,7 @@
 
 A Web Skeleton made using HTML and CSS
 
-![Web Skeleton][https://ibb.co/exZtYU]
+![GitHub Logo](/images/logo.png)
 
 To run locally, clone it onto your computer. In a terminal, write 
 
