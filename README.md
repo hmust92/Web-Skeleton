@@ -2,7 +2,7 @@
 
 A Web Skeleton made using HTML and CSS
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](https://imgur.com/zrKFDV1)
 
 To run locally, clone it onto your computer. In a terminal, write 
 
